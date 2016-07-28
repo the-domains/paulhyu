@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[paulhyu]]></title>
         <description><![CDATA[paulhyu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulhyu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 10:32:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 10:38:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulhyu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Paul Hyu is a middle aged actor with Guyanese heritage. His Chinese grandfather was one of only two qualified doctors in Gerorgetown, Guyana in the post-war period and he had many offspring, some legitimate, of which Paul's father was one. Born in the summer of love in London in 1967, when his father was attempting to emulate his own father and graduate as a doctor from Bart's, Paul grew up first in Kilburn, then Smallfield in Surrey, then moved to Harrogate, North Yorkshire, where he completed his secondary education in 1985, gaining 11 O-levels (6 at grade A) and A grades in both Physics and General Studies A-Level.Paul went for a short while to Leeds University where he started studying Physics before switching to Psychology. He secretly auditioned for a new London based drama school - The London Theatre School - and was offered a place. He quit Leeds and went to join his school mate, who was already enrolled at the Academy of Live & Recorded Arts, in his bedist in Tooting Bec. There was one single bed, mice roaming at night and the window sashes rattled whenever a bus drove past outside. Paul slept on the floor and he and Tim, for that was his mate's name, used to arrange for their one key to be more or less in the possession of whoever was thought to be back first. When this didn't work out the one locked out would take refuge in one of the nearby pubs, or in the amusement arcade opposite the bedsit, where the owner would make us feel welcome by making us a free cup of tea. The fact we were pouring all our money into his fruit-machines made this transaction an early example of clever hospitality.</p>]]></description>
-            <link>undefinedpaul-hyu-is-a-middle-aged-actor-with-guyanese-heritage-his/index.html</link>
+            <link>https://thegrid.ai/paulhyu/paul-hyu-is-a-middle-aged-actor-with-guyanese-heritage-his/index.html</link>
             <guid isPermaLink="false">3b3316d9-4e8f-41c4-ac73-180592048d5c</guid>
-            <pubDate>Thu, 28 Jul 2016 10:32:26 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 10:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
