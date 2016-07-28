@@ -4,8 +4,15 @@
         <description><![CDATA[paulhyu]]></description>
         <link>https://thegrid.ai/paulhyu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 18:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:37:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paulhyu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<p>Paul Hyu is a middle aged actor with Guyanese heritage. His Chinese grandfather was one of only two qualified doctors in Georgetown, Guyana in the post-war period and he had many offspring, some legitimate, of which Paul's father was one. </p>]]></description>
+            <link>https://thegrid.ai/paulhyu/paul-hyu-is-a-middle-aged-actor-with-guyanese-heritage-his/index.html</link>
+            <guid isPermaLink="false">3b3316d9-4e8f-41c4-ac73-180592048d5c</guid>
+            <pubDate>Thu, 28 Jul 2016 18:36:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[20 Steps Poster]]></title>
             <description><![CDATA[<article><h1>20 Steps Poster</h1><p>My 1st real TV regular part, which played like a soap opera at 5am on the BBC's new "Learning Zone". I found I had quite a fanbase amongst late night petrol attendants.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77d22102034edc6bb4176075aa29b23d/croprotate.jpg?cropheight=4429&cropwidth=3183&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc4ce06f0-74fa-46e0-830b-58c0c541531f.jpg&x=0&y=0"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/paulhyu/cv/index.html</link>
             <guid isPermaLink="false">507a3e73-9244-43e5-b64f-5d9659c6b242</guid>
             <pubDate>Thu, 28 Jul 2016 16:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<p>Paul Hyu is a middle aged actor with Guyanese heritage. His Chinese grandfather was one of only two qualified doctors in Gerorgetown, Guyana in the post-war period and he had many offspring, some legitimate, of which Paul's father was one. </p>]]></description>
-            <link>https://thegrid.ai/paulhyu/paul-hyu-is-a-middle-aged-actor-with-guyanese-heritage-his/index.html</link>
-            <guid isPermaLink="false">3b3316d9-4e8f-41c4-ac73-180592048d5c</guid>
-            <pubDate>Thu, 28 Jul 2016 15:02:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
