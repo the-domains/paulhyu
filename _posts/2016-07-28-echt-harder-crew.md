@@ -7,21 +7,21 @@ keywords: []
 description: >-
   The crew and regular cast on board the boat that was the main set in Hamburg
   for 7 months.
-datePublished: '2016-07-28T18:16:09.041Z'
-dateModified: '2016-07-28T18:10:41.745Z'
+datePublished: '2016-07-28T18:18:08.362Z'
+dateModified: '2016-07-28T18:18:06.710Z'
 title: Echt Harder crew
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-07-28-echt-harder-crew.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-07-28-echt-harder-crew.md
 url: echt-harder-crew/index.html
 _type: Article
 
@@ -33,4 +33,4 @@ Hannah Rudolph, like me, was a new face and being propelled to stardom. Strange 
 ![Hannah Rudolph and Paul making the show's sign](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d168a41f-33ae-4e0a-9169-c51b84620999.jpg)
 
 Sat as the car salesman with Jeremy Sinden, playing Toad in what was to be his last ever theatre show. Tracy Harper, behind the car as a squirrel, was also from Guyana and related to West Indian cricketer, Roger.
-![Wind in the Willows production picture](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49e4e8b-dbac-4261-98a2-c13a5d9e4204.jpg)
+![Wind in the Willows production picture](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/18073ceb261ac0aa4b17d55de1519c93/croprotate.jpg?cropheight=1999&cropwidth=2760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa49e4e8b-dbac-4261-98a2-c13a5d9e4204.jpg&x=0&y=0)
