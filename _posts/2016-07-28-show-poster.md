@@ -1,23 +1,25 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Show poster for TakeAway in the Lyric
-datePublished: '2016-07-28T15:51:41.095Z'
-dateModified: '2016-07-28T15:51:02.817Z'
+datePublished: '2016-07-28T16:27:13.182Z'
+dateModified: '2016-07-28T16:27:09.974Z'
 title: Show poster
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-07-28-show-poster.md
 authors: []
 publisher:
-  name: ''
-  url: ''
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-sourcePath: _posts/2016-07-28-show-poster.md
 url: show-poster/index.html
 _type: Article
 
