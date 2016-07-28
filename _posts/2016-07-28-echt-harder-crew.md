@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Paul holding the clapper board, happy to be a regular on this expensive
-  production
-datePublished: '2016-07-28T16:10:17.386Z'
-dateModified: '2016-07-28T16:10:09.164Z'
-title: Echt Harder Crew
+  The crew and regular cast on board the boat that was the main set in Hamburg
+  for 7 months.
+datePublished: '2016-07-28T18:16:09.041Z'
+dateModified: '2016-07-28T18:10:41.745Z'
+title: Echt Harder crew
 author:
   - name: ''
     url: ''
@@ -26,6 +26,11 @@ url: echt-harder-crew/index.html
 _type: Article
 
 ---
-![The crew and regular cast stand on the boat in Hamburg, 1995](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2af266f3-65a6-45e1-9963-f9450ffc80e5.jpg)
-![Hanna & Paul giving the sign of the show!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea814617-1325-4bdb-b070-379d88def670.jpg)
-![Driving the car with Jeremy Sinden as Toad](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e559f915-307a-4283-8008-86aa81139540.jpg)
+The crew and regular cast on board the boat that was the main set in Hamburg for 7 months.
+![the crew and regular cast of Echt Harder, RTL, Hamburg 1995](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042dd2e2-40b1-4fef-baee-96cf2274d222.jpg)
+
+Hannah Rudolph, like me, was a new face and being propelled to stardom. Strange headwear was the show's leitmotif!
+![Hannah Rudolph and Paul making the show's sign](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d168a41f-33ae-4e0a-9169-c51b84620999.jpg)
+
+Sat as the car salesman with Jeremy Sinden, playing Toad in what was to be his last ever theatre show. Tracy Harper, behind the car as a squirrel, was also from Guyana and related to West Indian cricketer, Roger.
+![Wind in the Willows production picture](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49e4e8b-dbac-4261-98a2-c13a5d9e4204.jpg)
