@@ -8,39 +8,44 @@ description: >-
   Paul Hyu is a middle aged actor with Guyanese heritage. His Chinese
   grandfather was one of only two qualified doctors in Gerorgetown, Guyana in
   the post-war period and he had many offspring, some legitimate, of which
-  Paul's father was one.   Born in the summer of love in London in 1967, when
-  his father was attempting to emulate his own father and graduate as a doctor
-  from Bart's, Paul grew up first in Kilburn, then Smallfield in Surrey, then
-  moved to Harrogate, North Yorkshire, where he completed his secondary
-  education in 1985, gaining 11 O-levels (6 at grade A) and A grades in both
-  Physics and General Studies A-Level.  Paul went for a short while to Leeds
-  University where he started studying Physics before switching to Psychology.
-  He secretly auditioned for a new London based drama school - The London
-  Theatre School - and was offered a place. He quit Leeds and went to join his
-  school mate, who was already enrolled at the Academy of Live & Recorded Arts,
-  in his bedist in Tooting Bec. There was one single bed, mice roaming at night
-  and the window sashes rattled whenever a bus drove past outside. Paul slept on
-  the floor and he and Tim, for that was his mate's name, used to arrange for
-  their one key to be more or less in the possession of whoever was thought to
-  be back first. When this didn't work out the one locked out would take refuge
-  in one of the nearby pubs, or in the amusement arcade opposite the bedsit,
-  where the owner would make us feel welcome by making us a free cup of tea. The
-  fact we were pouring all our money into his fruit-machines made this
-  transaction an early example of clever hospitality.
-datePublished: '2016-07-28T10:32:26.111Z'
-dateModified: '2016-07-28T10:32:11.861Z'
+  Paul's father was one. Born in the summer of love in London in 1967, when his
+  father was attempting to emulate his own father and graduate as a doctor from
+  Bart's, Paul grew up first in Kilburn, then Smallfield in Surrey, then moved
+  to Harrogate, North Yorkshire, where he completed his secondary education in
+  1985, gaining 11 O-levels (6 at grade A) and A grades in both Physics and
+  General Studies A-Level.Paul went for a short while to Leeds University where
+  he started studying Physics before switching to Psychology. He secretly
+  auditioned for a new London based drama school - The London Theatre School -
+  and was offered a place. He quit Leeds and went to join his school mate, who
+  was already enrolled at the Academy of Live & Recorded Arts, in his bedist in
+  Tooting Bec. There was one single bed, mice roaming at night and the window
+  sashes rattled whenever a bus drove past outside. Paul slept on the floor and
+  he and Tim, for that was his mate's name, used to arrange for their one key to
+  be more or less in the possession of whoever was thought to be back first.
+  When this didn't work out the one locked out would take refuge in one of the
+  nearby pubs, or in the amusement arcade opposite the bedsit, where the owner
+  would make us feel welcome by making us a free cup of tea. The fact we were
+  pouring all our money into his fruit-machines made this transaction an early
+  example of clever hospitality.
+datePublished: '2016-07-28T10:38:12.176Z'
+dateModified: '2016-07-28T10:37:55.071Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-28-paul-hyu-is-a-middle-aged-actor-with-guyanese-heritage-his.md
+authors: []
+publisher: {}
+starred: true
 url: paul-hyu-is-a-middle-aged-actor-with-guyanese-heritage-his/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af64d687-dd16-436f-b325-28aad209ed24.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0be45c99-35f4-4519-84a0-df918ba32f50.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07133205-a893-4a9f-8ddf-5eeda3afe844.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a51a816a-f57d-4861-8958-12777bc238f2.jpg)
+
 Paul Hyu is a middle aged actor with Guyanese heritage. His Chinese grandfather was one of only two qualified doctors in Gerorgetown, Guyana in the post-war period and he had many offspring, some legitimate, of which Paul's father was one.   
 Born in the summer of love in London in 1967, when his father was attempting to emulate his own father and graduate as a doctor from Bart's, Paul grew up first in Kilburn, then Smallfield in Surrey, then moved to Harrogate, North Yorkshire, where he completed his secondary education in 1985, gaining 11 O-levels (6 at grade A) and A grades in both Physics and General Studies A-Level.  
 Paul went for a short while to Leeds University where he started studying Physics before switching to Psychology. He secretly auditioned for a new London based drama school - The London Theatre School - and was offered a place. He quit Leeds and went to join his school mate, who was already enrolled at the Academy of Live & Recorded Arts, in his bedist in Tooting Bec. There was one single bed, mice roaming at night and the window sashes rattled whenever a bus drove past outside. Paul slept on the floor and he and Tim, for that was his mate's name, used to arrange for their one key to be more or less in the possession of whoever was thought to be back first. When this didn't work out the one locked out would take refuge in one of the nearby pubs, or in the amusement arcade opposite the bedsit, where the owner would make us feel welcome by making us a free cup of tea. The fact we were pouring all our money into his fruit-machines made this transaction an early example of clever hospitality.
