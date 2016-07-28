@@ -1,6 +1,6 @@
 name: paulhyu
 favicon: null
-layout_spectrum: 0.5141461747698486
+layout_spectrum: 0.14392
 typography_spectrum: 0.18363782088272274
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.8870086485985667
-  lightness: 0.5416707911062986
-  saturation: 0.3106118368450552
-  rhythmicContrast: 0.40963915549218655
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
