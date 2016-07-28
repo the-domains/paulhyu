@@ -1,0 +1,28 @@
+name: paulhyu
+favicon: null
+layout_spectrum: 0.5141461747698486
+typography_spectrum: 0.18363782088272274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8870086485985667
+  lightness: 0.5416707911062986
+  saturation: 0.3106118368450552
+  rhythmicContrast: 0.40963915549218655
+purpose: []
